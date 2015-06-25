@@ -1,5 +1,5 @@
 # Danish General Election Results 1953-2015
-The csv files contain the results of Danish general elections 1953-2015 including number of votes, vote share and number of seats in parliament. Election results from Greenland and the Faroe Islands are not included.
+The csv files contain the results of Danish general elections 1953-2015 including number of votes and number of seats in parliament. Election results from Greenland and the Faroe Islands are not included.
 
 || Party names in Danish | Party names in English |
 | ----- | ---------- | --------------------------------- |
