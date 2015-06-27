@@ -23,4 +23,4 @@ The csv files contain the results of Danish general elections 1953-2015 includin
 | LA | Liberal Alliance | Liberal Alliance |
 | Alt | Alternativet | The Alternativ |
 
-Data sources: [Folketinget] (http://www.ft.dk/Folketinget/Oplysningen/Valg/~/media/PDF/om_folketinget/Folketingets_Oplysning/Folketingsvalgene%201953-2011.pdf.ashx) and [Danmarks Statistik] (http://www.dst.dk/da/Statistik/Publikationer/VisPub.aspx?cid=020213)
+Data sources: [Folketinget] (http://www.ft.dk/Folketinget/Oplysningen/Valg/ValgresultaterDK.aspx) and [Danmarks Statistik] (http://www.dst.dk/da/Statistik/Publikationer/VisPub.aspx?cid=020213)
