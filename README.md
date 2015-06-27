@@ -5,9 +5,9 @@ The csv files contain the results of Danish general elections 1953-2015 includin
 | ----- | ---------- | --------------------------------- |
 | S  | Socialdemokratiet | The Social Democratic Party |
 | RV | Det Radikale Venstre | The Social Liberal Party |
-| KF | Det Konservative Folkeparti | The Conservative People's Party |
+| K | Det Konservative Folkeparti | The Conservative People's Party |
 | CD | Centrum-Demokraterne | The Centre Democrats |
-| DR | Danmarks Retsforbund | Justice Party of Denmark |
+| Rfb | Retsforbundet | Justice Party |
 | SF | Socialistisk Folkeparti | Socialist People's Party |
 | DKP | Danmarks Kommunistiske Parti | Communist Party of Denmark |
 | DF | Dansk Folkparti | Danish People's Party |
