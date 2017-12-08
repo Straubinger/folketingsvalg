@@ -15,7 +15,7 @@ The csv files contain the results of Danish general elections 1953-2015 includin
 | LC | Liberalt Centrum | Liberal Centre |
 | KD | Kristendemokraterne | The Christian Democrats |
 | SP | Slesvigsk Parti | Schleswig Party |
-| U | De Uafhængige | The Independent Party |
+| U | De Uafhængige | The Independents |
 | V | Venstre | The Liberal Party |
 | VS | Venstresocialisterne | The Left Socialists |
 | FP | Fremskridtspartiet | The Progress Party |
