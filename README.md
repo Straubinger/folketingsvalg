@@ -3,7 +3,7 @@ Results of Danish General Elections 1953-2015
 
 ### Description
 
-Results of Danish General Elections 1953-2015 including number of votes and number of seats in parliament. Only parties elected in at least one election between 1953-2015 are included. Election results from Greenland and the Faroe Islands are not included.
+Results of Danish General Elections 1953-2015 including number of votes and number of seats in parliament. Election results from Greenland and the Faroe Islands are not included.
 
 ### Parties
 
@@ -88,5 +88,5 @@ The `seats.csv` data file consists of the following variables:
 
 ### Sources
 
-- <a href="http://www.dst.dk/da/Statistik/Publikationer/VisPub?pid=1696">Dannmarks Statistik 1953-2007</a>
+- <a href="http://www.dst.dk/da/Statistik/Publikationer/VisPub?pid=1696">Danmarks Statistik 1953-2007</a>
 - <a href="http://www.dst.dk/da/Statistik/Publikationer/VisPub?pid=1532">Danmarks Statistik 2011-2015</a>
