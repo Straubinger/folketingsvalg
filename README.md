@@ -30,7 +30,7 @@ Results of Danish General Elections 1953-2019 including number of votes and numb
 | Alt   | Alternativet                 | The Alternativ |
 | NB    | Nye Borgerlige               | The New Right |
 | KRP   | Klaus Riskær Pedersen        | Klaus Riskær Pedersen |
-| SK    | Alternativet                 | Hard Line Party |
+| SK    | Stram Kurs                   | Hard Line Party |
 
 
 ### Repository content
