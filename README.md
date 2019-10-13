@@ -98,8 +98,10 @@ The `seats.csv` data file consists of the following variables:
 
 The following commands will load the data into R:
 ``` R
-read.csv(text=RCurl::getURL("https://raw.githubusercontent.com/Straubinger/folketingsvalg/master/seats.csv"))  # seats dataset
-read.csv(text=RCurl::getURL("https://raw.githubusercontent.com/Straubinger/folketingsvalg/master/votes.csv"))  # votes dataset
+# seats dataset
+read.csv(text=RCurl::getURL("https://raw.githubusercontent.com/Straubinger/folketingsvalg/master/seats.csv"))
+# votes dataset
+read.csv(text=RCurl::getURL("https://raw.githubusercontent.com/Straubinger/folketingsvalg/master/votes.csv"))
 ```
 
 ### Sources
