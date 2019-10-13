@@ -1,13 +1,13 @@
-Results of Danish General Elections 1953-2015
+Results of Danish General Elections 1953-2019
 ---
 
 ### Description
 
-Results of Danish General Elections 1953-2015 including number of votes and number of seats in parliament. Election results from Greenland and the Faroe Islands are not included.
+Results of Danish General Elections 1953-2019 including number of votes and number of seats in parliament. Election results from Greenland and the Faroe Islands are not included.
 
 ### Parties
 
-|       | Party names in Danish        | Party names in English |
+|       | Party name in Danish         | Party name in English |
 | ----- | ---------------------------- | --------------------------------- |
 | S     | Socialdemokratiet            | The Social Democratic Party |
 | RV    | Det Radikale Venstre         | The Social Liberal Party |
@@ -28,6 +28,10 @@ Results of Danish General Elections 1953-2015 including number of votes and numb
 | EL    | Enhedslisten                 | The Red-Green Alliance |
 | LA    | Liberal Alliance             | Liberal Alliance |
 | Alt   | Alternativet                 | The Alternativ |
+| NB    | Nye Borgerlige               | The New Right |
+| KRP   | Klaus Riskær Pedersen        | Klaus Riskær Pedersen |
+| SK    | Alternativet                 | Hard Line Party |
+
 
 ### Repository content
 
@@ -53,6 +57,9 @@ The `votes.csv` data file consists of the following variables:
 - `party_el` = Number of votes for the Red-Green Alliance
 - `party_la` = Number of votes for the Liberal Alliance
 - `party_alt` = Number of votes for the Alternative
+- `party_nb` = Number of votes for the New Right
+- `party_krp` = Number of votes for Klaus Riskær Pedersen
+- `party_sk` = Number of votes for the Hard Line Party
 - `other_valid` = Number of votes for other parties and independents
 - `total_valid` = Total number of valid votes
 - `blank` = Number of blank votes
@@ -83,10 +90,20 @@ The `seats.csv` data file consists of the following variables:
 - `party_el` = Number of seats won by for the Red-Green Alliance
 - `party_la` = Number of seats won by for the Liberal Alliance
 - `party_alt` = Number of seats won by for the Alternative
+- `party_nb` = Number of seats won by the New Right
+- `party_krp` = Number of seats won by Klaus Riskær Pedersen
+- `party_sk` = Number of seats won by the Hard Line Party
 - `other` = Number of seats won by other parties and independents
 - `total` = Total number of seats in parliament
 
+The following commands will load the data into R:
+``` R
+read.csv(text=RCurl::getURL("https://raw.githubusercontent.com/Straubinger/folketingsvalg/master/seats.csv"))  # seats dataset
+read.csv(text=RCurl::getURL("https://raw.githubusercontent.com/Straubinger/folketingsvalg/master/votes.csv"))  # votes dataset
+```
+
 ### Sources
 
-- <a href="http://www.dst.dk/da/Statistik/Publikationer/VisPub?pid=1696">Danmarks Statistik 1953-2007</a>
-- <a href="http://www.dst.dk/da/Statistik/Publikationer/VisPub?pid=1532">Danmarks Statistik 2011-2015</a>
+- <a href="http://www.dst.dk/da/Statistik/Publikationer/VisPub?pid=1696">Danmarks Statistik Publikationer 1953-2007</a>
+- <a href="http://www.dst.dk/da/Statistik/Publikationer/VisPub?pid=1532">Danmarks Statistik Publikationer 2011-2015</a>
+- <a href="https://www.dst.dk/valg/index.htm">Danmarks Statistik Valghjemmeside 2011-2019</a>
