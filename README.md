@@ -99,9 +99,9 @@ The `seats.csv` data file consists of the following variables:
 The following commands will load the data into R:
 ``` R
 # seats dataset
-read.csv(text=getURL("https://raw.githubusercontent.com/Straubinger/folketingsvalg/master/seats.csv"))
+read.csv(text=url("https://raw.githubusercontent.com/Straubinger/folketingsvalg/master/seats.csv"))
 # votes dataset
-read.csv(text=getURL("https://raw.githubusercontent.com/Straubinger/folketingsvalg/master/votes.csv"))
+read.csv(text=url("https://raw.githubusercontent.com/Straubinger/folketingsvalg/master/votes.csv"))
 ```
 
 ### Sources
