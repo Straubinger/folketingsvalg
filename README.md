@@ -3,7 +3,7 @@ Results of Danish General Elections 1953-2022
 
 ### Description
 
-Results of Danish General Elections 1953-2019 including number of votes and number of seats in parliament. Election results from Greenland and the Faroe Islands are not included.
+Results of Danish General Elections 1953-2022 including number of votes and number of seats in parliament. Election results from Greenland and the Faroe Islands are not included.
 
 ### Parties
 
