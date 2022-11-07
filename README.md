@@ -1,9 +1,9 @@
-Results of Danish General Elections 1953-2022
+Results of Danish General Elections 1953-2019
 ---
 
 ### Description
 
-Results of Danish General Elections 1953-2022 including number of votes and number of seats in parliament. Election results from Greenland and the Faroe Islands are not included.
+Results of Danish General Elections 1953-2019 including number of votes and number of seats in parliament. Election results from Greenland and the Faroe Islands are not included.
 
 ### Parties
 
@@ -31,9 +31,6 @@ Results of Danish General Elections 1953-2022 including number of votes and numb
 | NB    | Nye Borgerlige               | The New Right |
 | KRP   | Klaus Riskær Pedersen        | Klaus Riskær Pedersen |
 | SK    | Stram Kurs                   | Hard Line Party |
-| M     | Moderaterne                  | The Moderates |
-| FG    | Frie Grønne                  | Independent Greens |
-| DD    | Danmarksdemokraterne         | The Denmark Democrats |
 
 
 ### Repository content
@@ -41,7 +38,6 @@ Results of Danish General Elections 1953-2022 including number of votes and numb
 The `votes.csv` data file consists of the following variables:
 
 - `year` = The year of the election
-- `date` = The date of the election
 - `party_s` = Number of votes for the Social Democratic Party
 - `party_rv` = Number of votes for the Social Liberal Party
 - `party_k` = Number of votes for the Conservative People's Party
@@ -64,9 +60,6 @@ The `votes.csv` data file consists of the following variables:
 - `party_nb` = Number of votes for the New Right
 - `party_krp` = Number of votes for Klaus Riskær Pedersen
 - `party_sk` = Number of votes for the Hard Line Party
-- `party_m` = Number of votes for the Moderates
-- `party_fg` = Number of votes for the Independent Greens
-- `party_dd` = Number of votes for the Denmark Democrats
 - `other_valid` = Number of votes for other parties and independents
 - `total_valid` = Total number of valid votes
 - `blank` = Number of blank votes
@@ -78,7 +71,6 @@ The `votes.csv` data file consists of the following variables:
 The `seats.csv` data file consists of the following variables:
 
 - `year` = The year of the election
-- `date` = The date of the election
 - `party_s` = Number of seats won by for the Social Democratic Party
 - `party_rv` = Number of seats won by for the Social Liberal Party
 - `party_k` = Number of seats won by for the Conservative People's Party
@@ -101,9 +93,6 @@ The `seats.csv` data file consists of the following variables:
 - `party_nb` = Number of seats won by the New Right
 - `party_krp` = Number of seats won by Klaus Riskær Pedersen
 - `party_sk` = Number of seats won by the Hard Line Party
-- `party_m` = Number of seats won by the Moderates
-- `party_fg` = Number of seats won by the Independent Greens
-- `party_dd` = Number of seats won by the Denmark Democrats
 - `other` = Number of seats won by other parties and independents
 - `total` = Total number of seats in parliament
 
