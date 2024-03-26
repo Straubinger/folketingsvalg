@@ -20,7 +20,7 @@ Results of Danish General Elections 1953-2022 including number of votes and numb
 | G     | De Grønne                    | The Greens |
 | DHP   | Det Humanistiske Parti       | The Humanist Party |
 | LA    | Liberal Alliance             | Liberal Alliance |
-| SAP   | Socialistisk Arbejderpolitik | The Socialist Workers Parti |
+| SAP   | Socialistisk Arbejderparti   | The Socialist Workers Party |
 | KD    | Kristendemokraterne          | The Christian Democrats |
 | DKP   | Danmarks Kommunistiske Parti | Communist Party of Denmark |
 | DKP/ml| Danmarks Kommunistiske Parti/Marxister-Leninister | Communist Party of Denmark/Marxists-Leninists |
