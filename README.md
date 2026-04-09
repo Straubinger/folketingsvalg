@@ -151,4 +151,4 @@ read.csv(url("https://raw.githubusercontent.com/Straubinger/folketingsvalg/maste
 
 - <a href="http://www.dst.dk/da/Statistik/Publikationer/VisPub?pid=1696">Danmarks Statistik Publikationer 1953-2007</a>
 - <a href="http://www.dst.dk/da/Statistik/Publikationer/VisPub?pid=1532">Danmarks Statistik Publikationer 2011-2015</a>
-- <a href="https://www.dst.dk/valg/index.htm">Danmarks Statistik Valghjemmeside 2011-2019</a>
+- <a href="https://www.dst.dk/valg/index.htm">Danmarks Statistik Valghjemmeside 2011-2026</a>
