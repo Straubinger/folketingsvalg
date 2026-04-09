@@ -1,9 +1,9 @@
-Results of Danish General Elections 1953-2022
+Results of Danish General Elections 1953-2026
 ---
 
 ### Description
 
-Results of Danish General Elections 1953-2022 including number of votes and number of seats in parliament. Election results from Greenland and the Faroe Islands are not included.
+Results of Danish General Elections 1953-2026 including number of votes and number of seats in parliament. Election results from Greenland and the Faroe Islands are not included.
 
 ### Parties
 
@@ -44,6 +44,7 @@ Results of Danish General Elections 1953-2022 including number of votes and numb
 | DD    | Danmarksdemokraterne         | The Denmark Democrats |
 | EL    | Enhedslisten                 | The Red-Green Alliance |
 | Alt   | Alternativet                 | The Alternativ |
+| PB    | Borgernes Parti              | The Citizens' Party |
 
 ### Repository content
 
@@ -85,7 +86,8 @@ The `votes.csv` data file consists of the following variables:
 - `party_fp` = Number of votes for the Progress Party 
 - `party_dd` = Number of votes for the Denmark Democrats
 - `party_el` = Number of votes for the Red-Green Alliance
-- `party_alt` = Number of votes for the Alternative- 
+- `party_alt` = Number of votes for the Alternative
+- `party_bp` = Number of votes for the Citizens' Party 
 - `independents` = Number of votes for independent candidates
 - `total_valid` = Total number of valid votes
 - `blank` = Number of blank votes
@@ -132,7 +134,8 @@ The `seats.csv` data file consists of the following variables:
 - `party_fp` = Number of seats for the Progress Party 
 - `party_dd` = Number of seats for the Denmark Democrats
 - `party_el` = Number of seats for the Red-Green Alliance
-- `party_alt` = Number of seats for the Alternative- 
+- `party_alt` = Number of seats for the Alternative
+- `party_bp` = Number of seats for the Citizens' Party
 - `independents` = Number of seats for independent candidates
 - `total` = Total number of seats in parliament
 
